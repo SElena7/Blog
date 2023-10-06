@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\api\\controllers",
+    "\\api\\routes",
+    "\\client",
+    "\\client\\src",
+    "\\client\\src\\components",
+    "\\client\\src\\pages"
+  ],
+  "SelectedNode": "\\client\\package.json",
+  "PreviewInSolutionExplorer": false
+}
